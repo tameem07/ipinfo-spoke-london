@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <connection_type>http_connection</connection_type>
+        <id>x_113003_ipinfo_sp.IPInfo_Alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>IPInfo_Alias</name>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-21 08:09:11</sys_created_on>
+        <sys_id>4b7e0001377323009a38036973990eee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_113003_ipinfo_sp.IPInfo_Alias</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_113003_ipinfo_sp">c02183e8373323009a38036973990e6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">c02183e8373323009a38036973990e6a</sys_scope>
+        <sys_update_name>sys_alias_4b7e0001377323009a38036973990eee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-21 08:09:11</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_ipinfo_token" label="IPInfo Token" language="en" table="var__m_connection_attributes_4b7e0001377323009a38036973990eee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_ipinfo_token</element>
+            <help/>
+            <hint/>
+            <label>IPInfo Token</label>
+            <language>en</language>
+            <name>var__m_connection_attributes_4b7e0001377323009a38036973990eee</name>
+            <plural>IPInfo Token</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 15:06:54</sys_created_on>
+            <sys_id>99c73a95373723009a38036973990e96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IPInfo Token</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_113003_ipinfo_sp">c02183e8373323009a38036973990e6a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">c02183e8373323009a38036973990e6a</sys_scope>
+            <sys_update_name>sys_documentation_var__m_connection_attributes_4b7e0001377323009a38036973990eee_u_ipinfo_token_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 15:06:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
